@@ -3,7 +3,7 @@ An 8-puzzle game that you can play on your own or let the computer solve.
 
 # How To Play
 **Space** -> Let computer solve the puzzle.<br>
-**Direction Keys** -> Move the blank space.<br>
+**Arrow Keys** -> Move the blank space.<br>
 **R** -> Restart the puzzle.<br>
 
 # Dependencies
